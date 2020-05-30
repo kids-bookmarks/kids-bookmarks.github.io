@@ -1,3 +1,8 @@
+# Miscellaneous
+[Think U Know - Band Runnder](https://www.thinkuknow.co.uk/8_10/)
+
+[Jessie & Friends](https://www.thinkuknow.co.uk/parents/jessie-and-friends-videos/)
+
 # History
 [English Heritage - 29 May 2020](https://english-heritage-news.org.uk/1CY6-6VW14-2DWPHQ2X77/cr.aspx): Game On!
 
@@ -12,9 +17,6 @@
 [Art Club - Symmetrical Art](https://artclubioanna.wixsite.com/artclub/copy-of-1-op-art-1)
 
 [Tate - Street Art](https://www.tate.org.uk/kids/games-quizzes/street-art): Make your own street art
-
-# Miscellaneous
-[Jessie & Friends](https://www.thinkuknow.co.uk/parents/jessie-and-friends-videos/)
 
 # Home Learning
 [White Rose Maths](https://whiterosemaths.com/homelearning/)
