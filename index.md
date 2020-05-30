@@ -1,5 +1,5 @@
 # Miscellaneous
-[Thinkuknow - Band Runnder](https://www.thinkuknow.co.uk/8_10/)
+[Thinkuknow - Band Runner](https://www.thinkuknow.co.uk/8_10/)
 
 [Thinkuknow - Jessie & Friends](https://www.thinkuknow.co.uk/parents/jessie-and-friends-videos/)
 
