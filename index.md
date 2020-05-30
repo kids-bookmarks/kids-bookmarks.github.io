@@ -1,7 +1,7 @@
 # Miscellaneous
-[Think U Know - Band Runnder](https://www.thinkuknow.co.uk/8_10/)
+[Thinkuknow - Band Runnder](https://www.thinkuknow.co.uk/8_10/)
 
-[Jessie & Friends](https://www.thinkuknow.co.uk/parents/jessie-and-friends-videos/)
+[Thinkuknow - Jessie & Friends](https://www.thinkuknow.co.uk/parents/jessie-and-friends-videos/)
 
 # History
 [English Heritage - 29 May 2020](https://english-heritage-news.org.uk/1CY6-6VW14-2DWPHQ2X77/cr.aspx): Game On!
