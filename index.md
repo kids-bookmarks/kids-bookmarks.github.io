@@ -1,3 +1,7 @@
+---
+title: Links for Kids
+---
+
 # Home Learning
 [Twinkl - Home Learning Hub](https://www.twinkl.de/home-learning-hub)
 
