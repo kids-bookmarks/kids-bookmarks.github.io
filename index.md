@@ -3,7 +3,7 @@ title: Links for Kids
 ---
 
 # Home Learning
-[Twinkl - Home Learning Hub](https://www.twinkl.de/home-learning-hub)
+[Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
 
 [White Rose Maths](https://whiterosemaths.com/homelearning/)
 
