@@ -3,6 +3,8 @@ title: Links for Kids
 ---
 
 # Home Learning
+[AdoptedMind](https://www.adaptedmind.com/selectstudent.php)
+
 [Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
 
 [White Rose Maths](https://whiterosemaths.com/homelearning/)
