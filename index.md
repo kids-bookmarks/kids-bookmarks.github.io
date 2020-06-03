@@ -3,6 +3,8 @@ title: Links for Kids
 ---
 
 # Home Learning
+[TED Ed - Earth School](https://ed.ted.com/earth-school)
+
 [AdoptedMind](https://www.adaptedmind.com/selectstudent.php)
 
 [Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
