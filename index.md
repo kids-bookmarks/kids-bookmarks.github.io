@@ -2,17 +2,6 @@
 title: Links for Kids
 ---
 
-# Test 2
-
-{% for cat in site.categories %}
-  # {{ cat[0] }}
-  <ul>
-    {% for post in cat[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
 # Videos
 
 <ul>
@@ -65,3 +54,14 @@ title: Links for Kids
 
 [Tate - Street Art](https://www.tate.org.uk/kids/games-quizzes/street-art): Make your own street art
 
+
+# Test 2
+
+{% for cat in site.categories %}
+  <h1>{{ cat[0] }}</h1>
+  <ul>
+    {% for post in cat[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
