@@ -2,6 +2,17 @@
 title: Links for Kids
 ---
 
+# Test
+
+{% for cat in site.category %}
+  # {{ cat[0] }}
+  <ul>
+    {% for post in cat[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
 # Videos
 
 <ul>
