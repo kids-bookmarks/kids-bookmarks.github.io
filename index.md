@@ -2,9 +2,9 @@
 title: Links for Kids
 ---
 
-# Test
+# Test 2
 
-{% for cat in site.category %}
+{% for cat in site.categories %}
   # {{ cat[0] }}
   <ul>
     {% for post in cat[1] %}
