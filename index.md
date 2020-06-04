@@ -10,7 +10,7 @@ title: Links for Kids
 
 <ul>
   {% for post in site.posts %}
-    {% if post.categories contains "Video" %}
+    {% if post.categories contains "Videos" %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
