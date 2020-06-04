@@ -14,18 +14,6 @@ title: Links for Kids
   {% endfor %}
 </ul>
 
-# Test 2
-
-<ul>
-  {% for post in site.posts %}
-    {% if post.category contains "nonono" %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
 # Home Learning
 [TED Ed - Earth School](https://ed.ted.com/earth-school)
 
