@@ -2,6 +2,16 @@
 title: Links for Kids
 ---
 
+# Videos
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 # Home Learning
 [TED Ed - Earth School](https://ed.ted.com/earth-school)
 
