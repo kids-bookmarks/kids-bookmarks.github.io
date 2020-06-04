@@ -6,7 +6,7 @@ title: Links for Kids
 
 <ul>
   {% for post in site.posts %}
-    {% if post.categories contains "video" %}
+    {% if post.category contains "video" %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
@@ -14,11 +14,11 @@ title: Links for Kids
   {% endfor %}
 </ul>
 
-# Test
+# Test 2
 
 <ul>
   {% for post in site.posts %}
-    {% if post.categories contains "nonono" %}
+    {% if post.category contains "nonono" %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
