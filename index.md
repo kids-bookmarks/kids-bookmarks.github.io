@@ -2,11 +2,15 @@
 title: Links for Kids
 ---
 
+# Reading
+
+[The World of David Walliams - Elevenses with The World of David Walliams](https://www.worldofdavidwalliams.com/elevenses/)
+
 # Videos
 
 <ul>
   {% for post in site.posts %}
-    {% if post.category contains "video" %}
+    {% if post.categories contains "Video" %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
