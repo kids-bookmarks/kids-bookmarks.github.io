@@ -61,7 +61,7 @@ title: Links for Kids
   <h1>{{ cat[0] }}</h1>
   <ul>
     {% for post in cat[1] %}
-      <a href="{{ post.url }}">{{ post.title }}</a><p>
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
