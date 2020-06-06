@@ -8,13 +8,11 @@ title: Links for Kids
 
 # Videos
 
-<ul>
-  {% for post in site.posts %}
-    {% if post.categories contains "Videos" %}
-      <a href="{{ post.url }}">{{ post.title }}</a><p>
-    {% endif %}
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  {% if post.categories contains "Videos" %}
+    <a href="{{ post.url }}">{{ post.title }}</a><p>
+  {% endif %}
+{% endfor %}
 
 # Home Learning
 [TED Ed - Earth School](https://ed.ted.com/earth-school)
