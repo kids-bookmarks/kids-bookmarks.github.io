@@ -2,9 +2,17 @@
 title: Links for Kids
 ---
 
-# Reading
+# Home Learning
 
-[The World of David Walliams - Elevenses with The World of David Walliams](https://www.worldofdavidwalliams.com/elevenses/)
+[Wide Open School](https://wideopenschool.org/programs/family/PreK-5/)
+
+[TED Ed - Earth School](https://ed.ted.com/earth-school)
+
+[AdoptedMind](https://www.adaptedmind.com/selectstudent.php)
+
+[Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
+
+[White Rose Maths](https://whiterosemaths.com/homelearning/)
 
 # Videos
 
@@ -16,14 +24,9 @@ title: Links for Kids
   {% endfor %}
 </ul>
 
-# Home Learning
-[TED Ed - Earth School](https://ed.ted.com/earth-school)
+# Reading
 
-[AdoptedMind](https://www.adaptedmind.com/selectstudent.php)
-
-[Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
-
-[White Rose Maths](https://whiterosemaths.com/homelearning/)
+[The World of David Walliams - Elevenses with The World of David Walliams](https://www.worldofdavidwalliams.com/elevenses/)
 
 # Geography
 [National Geographic - The Compass - Spain](https://email.nationalgeographic.com/H/2/v40000017266053dd29e613ff4bbe5bf30/5e4c1fff-3044-43e3-8a0d-5d2e17046752/HTML)
