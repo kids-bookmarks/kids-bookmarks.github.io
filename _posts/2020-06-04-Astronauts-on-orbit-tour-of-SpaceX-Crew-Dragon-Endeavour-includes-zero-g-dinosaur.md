@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Astronauts' on-orbit tour of SpaceX Crew Dragon ‘Endeavour' includes ‘zero-g dinosaur' 1"
+title: "Astronauts' on-orbit tour of SpaceX Crew Dragon ‘Endeavour' includes ‘zero-g dinosaur' 900X450"
 categories: Videos Science
 ---
 
