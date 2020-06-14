@@ -2,10 +2,9 @@
 title: Links for Kids
 ---
 
-# News
-[Twinkl - Key Stage 2 - Current Affairs](https://www.twinkl.co.uk/resources/keystage2-ks2/ks2-topics/ks2-current-affairs)
-
 # Home Learning
+
+[Bishop Ridley Church of England Primary School - Class Pages](https://www.bishopridleyschool.org.uk/class-pages/)
 
 [Wide Open School](https://wideopenschool.org/programs/family/PreK-5/)
 
@@ -26,6 +25,10 @@ title: Links for Kids
     {% endif %}
   {% endfor %}
 </ul>
+
+
+# News
+[Twinkl - Key Stage 2 - Current Affairs](https://www.twinkl.co.uk/resources/keystage2-ks2/ks2-topics/ks2-current-affairs)
 
 # Reading
 
