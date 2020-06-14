@@ -2,6 +2,9 @@
 title: Links for Kids
 ---
 
+# News
+[Twinkl - Key Stage 2 - Current Affairs](https://www.twinkl.co.uk/resources/keystage2-ks2/ks2-topics/ks2-current-affairs)
+
 # Home Learning
 
 [Wide Open School](https://wideopenschool.org/programs/family/PreK-5/)
