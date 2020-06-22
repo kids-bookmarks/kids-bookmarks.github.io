@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xavier Riddle and the Secret Museum"
+title: "Xavier Riddle and the Secret Museum Playlist"
 categories: Videos
 ---
 
