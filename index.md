@@ -2,6 +2,25 @@
 title: Links for Kids
 ---
 
+# History
+[English Heritage - The Kids Rule! Guide to Kings and Queens of England](https://www.english-heritage.org.uk/members-area/kids/kids-rule-guide-to-kings-and-queens/)
+
+[English Heritage - 29 May 2020](https://english-heritage-news.org.uk/1CY6-6VW14-2DWPHQ2X77/cr.aspx): Game On!
+
+[English Heritage - Get inspired with things to do for history lovers](https://www.english-heritage.org.uk/visit/inspire-me)
+
+[English Heritage - 24 May 2020](https://english-heritage-news.org.uk/1CY6-6VJVY-2DWPHQ2X77/cr.aspx): Animations on neolithic and Roman Britain, colouring a medieval monastery
+
+# Videos
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Videos" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 # Home Learning
 
 [Bishop Ridley Church of England Primary School - Class Pages](https://www.bishopridleyschool.org.uk/class-pages/)
@@ -15,17 +34,6 @@ title: Links for Kids
 [Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
 
 [White Rose Maths](https://whiterosemaths.com/homelearning/)
-
-# Videos
-
-<ul>
-  {% for post in site.posts %}
-    {% if post.categories contains "Videos" %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
 
 # News
 [Twinkl - Key Stage 2 - Current Affairs](https://www.twinkl.co.uk/resources/keystage2-ks2/ks2-topics/ks2-current-affairs)
@@ -49,13 +57,6 @@ title: Links for Kids
 [Thinkuknow - Band Runner](https://www.thinkuknow.co.uk/8_10/)
 
 [Thinkuknow - Jessie & Friends](https://www.thinkuknow.co.uk/parents/jessie-and-friends-videos/)
-
-# History
-[English Heritage - 29 May 2020](https://english-heritage-news.org.uk/1CY6-6VW14-2DWPHQ2X77/cr.aspx): Game On!
-
-[English Heritage - Get inspired with things to do for history lovers](https://www.english-heritage.org.uk/visit/inspire-me)
-
-[English Heritage - 24 May 2020](https://english-heritage-news.org.uk/1CY6-6VJVY-2DWPHQ2X77/cr.aspx): Animations on neolithic and Roman Britain, colouring a medieval monastery
 
 # Coding
 [Tynker](https://www.tynker.com/#/sign-in-student/)
