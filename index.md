@@ -2,6 +2,11 @@
 title: Links for Kids
 ---
 
+# Reading
+[Summer Reading Challenge 2020](https://summerreadingchallenge.org.uk/)
+
+[The World of David Walliams - Elevenses with The World of David Walliams](https://www.worldofdavidwalliams.com/elevenses/)
+
 # History
 [English Heritage - The Kids Rule! Guide to Kings and Queens of England](https://www.english-heritage.org.uk/members-area/kids/kids-rule-guide-to-kings-and-queens/)
 
@@ -37,10 +42,6 @@ title: Links for Kids
 
 # News
 [Twinkl - Key Stage 2 - Current Affairs](https://www.twinkl.co.uk/resources/keystage2-ks2/ks2-topics/ks2-current-affairs)
-
-# Reading
-
-[The World of David Walliams - Elevenses with The World of David Walliams](https://www.worldofdavidwalliams.com/elevenses/)
 
 # Geography
 [National Geographic - The Compass - Spain](https://email.nationalgeographic.com/H/2/v40000017266053dd29e613ff4bbe5bf30/5e4c1fff-3044-43e3-8a0d-5d2e17046752/HTML)
