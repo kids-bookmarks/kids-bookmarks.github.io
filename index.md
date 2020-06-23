@@ -2,15 +2,17 @@
 title: Links for Kids
 ---
 
+# Reading
+[Bexley Libraries](https://arena.yourlondonlibrary.net/web/bexley/home)
+
+[Summer Reading Challenge 2020](https://summerreadingchallenge.org.uk/)
+
+[The World of David Walliams - Elevenses with The World of David Walliams](https://www.worldofdavidwalliams.com/elevenses/)
+
 # Game
 [Minecraft Wiki](https://minecraft.gamepedia.com)
 
 [Minecraft](https://www.minecraft.net)
-
-# Reading
-[Summer Reading Challenge 2020](https://summerreadingchallenge.org.uk/)
-
-[The World of David Walliams - Elevenses with The World of David Walliams](https://www.worldofdavidwalliams.com/elevenses/)
 
 # History
 [English Heritage - The Kids Rule! Guide to Kings and Queens of England](https://www.english-heritage.org.uk/members-area/kids/kids-rule-guide-to-kings-and-queens/)
