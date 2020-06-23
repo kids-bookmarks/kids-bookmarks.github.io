@@ -2,6 +2,11 @@
 title: Links for Kids
 ---
 
+# Game
+[Minecraft Wiki](https://minecraft.gamepedia.com)
+
+[Minecraft](https://www.minecraft.net)
+
 # Reading
 [Summer Reading Challenge 2020](https://summerreadingchallenge.org.uk/)
 
