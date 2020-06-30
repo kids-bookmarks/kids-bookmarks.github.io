@@ -12,8 +12,6 @@ title: Links for Kids
 
 [TED Ed - Earth School](https://ed.ted.com/earth-school)
 
-[AdoptedMind](https://www.adaptedmind.com/selectstudent.php)
-
 [Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
 
 [White Rose Maths](https://whiterosemaths.com/homelearning/)
