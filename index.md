@@ -2,6 +2,22 @@
 title: Links for Kids
 ---
 
+# Home Learning
+
+[Math Antics](https://mathantics.com/)
+
+[Bishop Ridley Church of England Primary School - Class Pages](https://www.bishopridleyschool.org.uk/class-pages/)
+
+[Wide Open School](https://wideopenschool.org/programs/family/PreK-5/)
+
+[TED Ed - Earth School](https://ed.ted.com/earth-school)
+
+[AdoptedMind](https://www.adaptedmind.com/selectstudent.php)
+
+[Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
+
+[White Rose Maths](https://whiterosemaths.com/homelearning/)
+
 # Reading
 [Bexley Libraries](https://arena.yourlondonlibrary.net/web/bexley/home)
 
@@ -32,20 +48,6 @@ title: Links for Kids
     {% endif %}
   {% endfor %}
 </ul>
-
-# Home Learning
-
-[Bishop Ridley Church of England Primary School - Class Pages](https://www.bishopridleyschool.org.uk/class-pages/)
-
-[Wide Open School](https://wideopenschool.org/programs/family/PreK-5/)
-
-[TED Ed - Earth School](https://ed.ted.com/earth-school)
-
-[AdoptedMind](https://www.adaptedmind.com/selectstudent.php)
-
-[Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
-
-[White Rose Maths](https://whiterosemaths.com/homelearning/)
 
 # News
 [Twinkl - Key Stage 2 - Current Affairs](https://www.twinkl.co.uk/resources/keystage2-ks2/ks2-topics/ks2-current-affairs)
