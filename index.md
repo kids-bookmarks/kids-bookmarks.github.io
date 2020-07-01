@@ -4,6 +4,8 @@ title: Links for Kids
 
 # Home Learning
 
+[Britannica Library](http://library.eb.co.uk/storelibrarycard?id=bexley)
+
 [Math Antics](https://mathantics.com/)
 
 [Bishop Ridley Church of England Primary School - Class Pages](https://www.bishopridleyschool.org.uk/class-pages/)
