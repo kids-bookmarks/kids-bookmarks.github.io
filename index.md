@@ -2,6 +2,18 @@
 title: Links for Kids
 ---
 
+# History
+
+[English Heritage - The Kids Rule! Guide to the Victorians](https://www.english-heritage.org.uk/members-area/kids/guide-to-victorians/)
+
+[English Heritage - The Kids Rule! Guide to Kings and Queens of England](https://www.english-heritage.org.uk/members-area/kids/kids-rule-guide-to-kings-and-queens/)
+
+[English Heritage - 29 May 2020](https://english-heritage-news.org.uk/1CY6-6VW14-2DWPHQ2X77/cr.aspx): Game On!
+
+[English Heritage - Get inspired with things to do for history lovers](https://www.english-heritage.org.uk/visit/inspire-me)
+
+[English Heritage - 24 May 2020](https://english-heritage-news.org.uk/1CY6-6VJVY-2DWPHQ2X77/cr.aspx): Animations on neolithic and Roman Britain, colouring a medieval monastery
+
 # Home Learning
 
 [Britannica Library](http://library.eb.co.uk/storelibrarycard?id=bexley)
@@ -29,15 +41,6 @@ title: Links for Kids
 [Minecraft Wiki](https://minecraft.gamepedia.com)
 
 [Minecraft](https://www.minecraft.net)
-
-# History
-[English Heritage - The Kids Rule! Guide to Kings and Queens of England](https://www.english-heritage.org.uk/members-area/kids/kids-rule-guide-to-kings-and-queens/)
-
-[English Heritage - 29 May 2020](https://english-heritage-news.org.uk/1CY6-6VW14-2DWPHQ2X77/cr.aspx): Game On!
-
-[English Heritage - Get inspired with things to do for history lovers](https://www.english-heritage.org.uk/visit/inspire-me)
-
-[English Heritage - 24 May 2020](https://english-heritage-news.org.uk/1CY6-6VJVY-2DWPHQ2X77/cr.aspx): Animations on neolithic and Roman Britain, colouring a medieval monastery
 
 # Videos
 
