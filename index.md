@@ -2,6 +2,22 @@
 title: Links for Kids
 ---
 
+# Videos
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Videos" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+# Game
+
+[Planet zoo](https://www.planetzoogame.com/)
+
+[Minecraft Wiki](https://minecraft.gamepedia.com)
+
 # History
 
 [English Heritage - The Kids Rule! Guide to the Victorians](https://www.english-heritage.org.uk/members-area/kids/guide-to-victorians/)
@@ -36,21 +52,6 @@ title: Links for Kids
 [Summer Reading Challenge 2020](https://summerreadingchallenge.org.uk/)
 
 [The World of David Walliams - Elevenses with The World of David Walliams](https://www.worldofdavidwalliams.com/elevenses/)
-
-# Game
-[Minecraft Wiki](https://minecraft.gamepedia.com)
-
-[Minecraft](https://www.minecraft.net)
-
-# Videos
-
-<ul>
-  {% for post in site.posts %}
-    {% if post.categories contains "Videos" %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
 
 # News
 [Twinkl - Key Stage 2 - Current Affairs](https://www.twinkl.co.uk/resources/keystage2-ks2/ks2-topics/ks2-current-affairs)
