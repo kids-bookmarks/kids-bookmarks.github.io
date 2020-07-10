@@ -2,6 +2,16 @@
 title: Links for Kids
 ---
 
+# Reading
+
+[British Library - Discovering Children's Books](https://www.bl.uk/childrens-books)
+
+[Bexley Libraries](https://arena.yourlondonlibrary.net/web/bexley/home)
+
+[Summer Reading Challenge 2020](https://summerreadingchallenge.org.uk/)
+
+[The World of David Walliams - Elevenses with The World of David Walliams](https://www.worldofdavidwalliams.com/elevenses/)
+
 # Videos
 
 <ul>
@@ -45,13 +55,6 @@ title: Links for Kids
 [Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
 
 [White Rose Maths](https://whiterosemaths.com/homelearning/)
-
-# Reading
-[Bexley Libraries](https://arena.yourlondonlibrary.net/web/bexley/home)
-
-[Summer Reading Challenge 2020](https://summerreadingchallenge.org.uk/)
-
-[The World of David Walliams - Elevenses with The World of David Walliams](https://www.worldofdavidwalliams.com/elevenses/)
 
 # News
 [Twinkl - Key Stage 2 - Current Affairs](https://www.twinkl.co.uk/resources/keystage2-ks2/ks2-topics/ks2-current-affairs)
