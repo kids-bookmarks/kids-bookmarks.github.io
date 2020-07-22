@@ -24,6 +24,8 @@ title: Links for Kids
 
 # Game
 
+[Minecraft](https://www.minecraft.net/)
+
 [Planet zoo](https://www.planetzoogame.com/)
 
 [Minecraft Wiki](https://minecraft.gamepedia.com)
