@@ -2,6 +2,12 @@
 title: Links for Kids
 ---
 
+# Maths
+
+[Timestables.com](https://www.timestables.com/)
+
+[Math Antics](https://mathantics.com/)
+
 # Reading
 
 [Dav Pilkey](https://pilkey.com/)
@@ -47,8 +53,6 @@ title: Links for Kids
 # Home Learning
 
 [Britannica Library](http://library.eb.co.uk/storelibrarycard?id=bexley)
-
-[Math Antics](https://mathantics.com/)
 
 [Bishop Ridley Church of England Primary School - Class Pages](https://www.bishopridleyschool.org.uk/class-pages/)
 
