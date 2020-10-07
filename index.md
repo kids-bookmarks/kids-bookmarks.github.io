@@ -2,6 +2,14 @@
 title: Links for Kids
 ---
 
+# Art
+
+[Pixilart](https://www.pixilart.com/)
+
+[Art Club - Symmetrical Art](https://artclubioanna.wixsite.com/artclub/copy-of-1-op-art-1)
+
+[Tate - Street Art](https://www.tate.org.uk/kids/games-quizzes/street-art): Make your own street art
+
 # Maths
 
 [Timestables.com](https://www.timestables.com/)
@@ -86,10 +94,6 @@ title: Links for Kids
 # Coding
 [Tynker](https://www.tynker.com/#/sign-in-student/)
 
-# Art
-[Art Club - Symmetrical Art](https://artclubioanna.wixsite.com/artclub/copy-of-1-op-art-1)
-
-[Tate - Street Art](https://www.tate.org.uk/kids/games-quizzes/street-art): Make your own street art
 
 
 {% for cat in site.categories %}
