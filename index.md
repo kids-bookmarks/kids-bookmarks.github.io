@@ -20,6 +20,16 @@ title: Links for Kids
 
 [Tate - Street Art](https://www.tate.org.uk/kids/games-quizzes/street-art): Make your own street art
 
+<ul>
+  {% for post in site.posts %}
+    {% assign categories = post.categories | split: " " %}
+    {% if "Art" in categories %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
 # Maths
 
 [Timestables.com](https://www.timestables.com/)
