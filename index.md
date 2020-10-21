@@ -22,8 +22,7 @@ title: Links for Kids
 
 <ul>
   {% for post in site.posts %}
-    {% assign categories = post.categories | split: " " %}
-    {% if "Art" in categories %}
+    {% if post.categories contains "Art" %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
