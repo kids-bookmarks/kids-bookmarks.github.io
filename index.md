@@ -2,15 +2,16 @@
 title: Links for Kids
 ---
 
-# Videos
+# Animals
 
 <ul>
   {% for post in site.posts %}
-    {% if post.categories contains "Videos" %}
+    {% if post.categories contains "Animals" %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
+
 
 # Art
 
@@ -47,6 +48,14 @@ title: Links for Kids
 
 [The World of David Walliams - Elevenses with The World of David Walliams](https://www.worldofdavidwalliams.com/elevenses/)
 
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Reading" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 
 # Game
 
@@ -55,6 +64,15 @@ title: Links for Kids
 [Planet zoo](https://www.planetzoogame.com/)
 
 [Minecraft Wiki](https://minecraft.gamepedia.com)
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Game" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 
 # History
 
@@ -68,11 +86,20 @@ title: Links for Kids
 
 [English Heritage - 24 May 2020](https://english-heritage-news.org.uk/1CY6-6VJVY-2DWPHQ2X77/cr.aspx): Animations on neolithic and Roman Britain, colouring a medieval monastery
 
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "History" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
 # Home Learning
 
 [Britannica Library](http://library.eb.co.uk/storelibrarycard?id=bexley)
 
-[Bishop Ridley Church of England Primary School - Class Pages](https://www.bishopridleyschool.org.uk/class-pages/)
+[Bishop Ridley Church of England Primary School - Class Pages](https://www.bishopridleyschool.org.uk/class-pages-1/)
 
 [Wide Open School](https://wideopenschool.org/programs/family/PreK-5/)
 
@@ -81,6 +108,15 @@ title: Links for Kids
 [Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
 
 [White Rose Maths](https://whiterosemaths.com/homelearning/)
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Home-Learning" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 
 # News
 [Twinkl - Key Stage 2 - Current Affairs](https://www.twinkl.co.uk/resources/keystage2-ks2/ks2-topics/ks2-current-affairs)
@@ -93,6 +129,15 @@ title: Links for Kids
 
 [National Geographic Kids - 26 May 2020](https://email.nationalgeographic.com/H/2/v40000017253366c6b999ad16e966f4650/484d25b9-06df-49c6-a5da-b1e7ff70145a/HTML): Tigers are terrific, Egypt, making a telescope
 
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Science" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
 # Environment
 [National Geographic Kids - Kids vs. Plastic](https://kids.nationalgeographic.com/explore/nature/kids-vs-plastic/)
 
@@ -103,6 +148,15 @@ title: Links for Kids
 
 # Coding
 [Tynker](https://www.tynker.com/#/sign-in-student/)
+
+# Music
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Music" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 
 
