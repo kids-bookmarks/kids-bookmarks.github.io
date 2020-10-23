@@ -2,6 +2,16 @@
 title: Links for Kids
 ---
 
+# Maths
+
+[Numbots](https://play.numbots.com/#/account/school-login/58231)
+
+[Times Tables Rock Stars](https://play.ttrockstars.com/auth/school/student/58231)
+
+[Timestables.com](https://www.timestables.com/)
+
+[Math Antics](https://mathantics.com/)
+
 # Animals
 
 <ul>
@@ -28,17 +38,6 @@ title: Links for Kids
     {% endif %}
   {% endfor %}
 </ul>
-
-
-# Maths
-
-[Numbots](https://play.numbots.com/#/account/school-login/58231)
-
-[Times Tables Rock Stars](https://play.ttrockstars.com/auth/school/student/58231)
-
-[Timestables.com](https://www.timestables.com/)
-
-[Math Antics](https://mathantics.com/)
 
 # Reading
 
