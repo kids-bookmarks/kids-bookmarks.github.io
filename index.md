@@ -2,6 +2,22 @@
 title: Links for Kids
 ---
 
+# Art
+
+[Pixilart](https://www.pixilart.com/)
+
+[Art Club - Symmetrical Art](https://artclubioanna.wixsite.com/artclub/copy-of-1-op-art-1)
+
+[Tate - Street Art](https://www.tate.org.uk/kids/games-quizzes/street-art): Make your own street art
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Art" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 # Maths
 
 [Numbots](https://play.numbots.com/#/account/school-login/58231)
@@ -22,22 +38,6 @@ title: Links for Kids
   {% endfor %}
 </ul>
 
-
-# Art
-
-[Pixilart](https://www.pixilart.com/)
-
-[Art Club - Symmetrical Art](https://artclubioanna.wixsite.com/artclub/copy-of-1-op-art-1)
-
-[Tate - Street Art](https://www.tate.org.uk/kids/games-quizzes/street-art): Make your own street art
-
-<ul>
-  {% for post in site.posts %}
-    {% if post.categories contains "Art" %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
 
 # Reading
 
