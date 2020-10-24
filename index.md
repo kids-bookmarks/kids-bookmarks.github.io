@@ -164,7 +164,7 @@ title: Links for Kids
 
 
 {% for cat in site.categories %}
-  <h1>{{ cat[0] }}</h1>
+  <!-- <h1>{{ cat[0] }}</h1> -->
   <ul>
     {% for post in cat[1] %}
 <!--      <li><a href="{{ post.url }}">{{ post.title }}</a></li> -->
