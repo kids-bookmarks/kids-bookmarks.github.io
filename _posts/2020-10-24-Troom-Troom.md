@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Troom Troom"
-categories: Science
+categories: Art
 ---
 
 Troom Troom에서 업로드한 동영상
