@@ -2,6 +2,28 @@
 title: Links for Kids
 ---
 
+# Home Learning
+
+[Britannica Library](http://library.eb.co.uk/storelibrarycard?id=bexley)
+
+[Bishop Ridley Church of England Primary School - Class Pages](https://www.bishopridleyschool.org.uk/class-pages-1/)
+
+[Wide Open School](https://wideopenschool.org/programs/family/PreK-5/)
+
+[TED Ed - Earth School](https://ed.ted.com/earth-school)
+
+[Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
+
+[White Rose Maths](https://whiterosemaths.com/homelearning/)
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Home-Learning" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 # Art
 
 [Pixilart](https://www.pixilart.com/)
@@ -92,29 +114,6 @@ title: Links for Kids
 <ul>
   {% for post in site.posts %}
     {% if post.categories contains "History" %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
-
-# Home Learning
-
-[Britannica Library](http://library.eb.co.uk/storelibrarycard?id=bexley)
-
-[Bishop Ridley Church of England Primary School - Class Pages](https://www.bishopridleyschool.org.uk/class-pages-1/)
-
-[Wide Open School](https://wideopenschool.org/programs/family/PreK-5/)
-
-[TED Ed - Earth School](https://ed.ted.com/earth-school)
-
-[Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
-
-[White Rose Maths](https://whiterosemaths.com/homelearning/)
-
-<ul>
-  {% for post in site.posts %}
-    {% if post.categories contains "Home-Learning" %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
