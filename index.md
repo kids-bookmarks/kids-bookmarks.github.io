@@ -148,6 +148,15 @@ title: Links for Kids
 
 [Thinkuknow - Jessie & Friends](https://www.thinkuknow.co.uk/parents/jessie-and-friends-videos/)
 
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Miscellaneous" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
 # Coding
 [Tynker](https://www.tynker.com/#/sign-in-student/)
 
