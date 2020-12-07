@@ -2,6 +2,13 @@
 title: Links for Kids
 ---
 
+# Coding
+
+[Roblox - Developer - Making a Basic Platformer](https://developer.roblox.com/en-us/articles/Creating-Your-First-Game)
+
+[Tynker](https://www.tynker.com/#/sign-in-student/)
+
+
 # Home Learning
 
 [일일수학](https://11math.com/calc#6D11F1B8)
@@ -157,10 +164,6 @@ title: Links for Kids
     {% endif %}
   {% endfor %}
 </ul>
-
-
-# Coding
-[Tynker](https://www.tynker.com/#/sign-in-student/)
 
 # Music
 <ul>
