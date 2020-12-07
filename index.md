@@ -4,6 +4,8 @@ title: Links for Kids
 
 # Home Learning
 
+[일일수학](https://11math.com/calc#6D11F1B8)
+
 [Britannica Library](http://library.eb.co.uk/storelibrarycard?id=bexley)
 
 [Bishop Ridley Church of England Primary School - Class Pages](https://www.bishopridleyschool.org.uk/class-pages-1/)
