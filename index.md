@@ -2,6 +2,16 @@
 title: Links for Kids
 ---
 
+# Animals
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Animals" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 # Coding
 
 [Roblox - Developer - Making a Basic Platformer](https://developer.roblox.com/en-us/articles/Creating-Your-First-Game)
@@ -58,17 +68,6 @@ title: Links for Kids
 [Timestables.com](https://www.timestables.com/)
 
 [Math Antics](https://mathantics.com/)
-
-# Animals
-
-<ul>
-  {% for post in site.posts %}
-    {% if post.categories contains "Animals" %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
 
 # Reading
 
