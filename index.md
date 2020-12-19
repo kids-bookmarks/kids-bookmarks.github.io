@@ -2,6 +2,15 @@
 title: Links for Kids
 ---
 
+# Coding
+
+[Hedy](https://hedy-beta.herokuapp.com/hedy/1/1?lang=en)
+
+[Roblox - Developer - Making a Basic Platformer](https://developer.roblox.com/en-us/articles/Creating-Your-First-Game)
+
+[Tynker](https://www.tynker.com/#/sign-in-student/)
+
+
 # Animals
 
 <ul>
@@ -11,13 +20,6 @@ title: Links for Kids
     {% endif %}
   {% endfor %}
 </ul>
-
-# Coding
-
-[Roblox - Developer - Making a Basic Platformer](https://developer.roblox.com/en-us/articles/Creating-Your-First-Game)
-
-[Tynker](https://www.tynker.com/#/sign-in-student/)
-
 
 # Home Learning
 
