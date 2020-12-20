@@ -2,6 +2,24 @@
 title: Links for Kids
 ---
 
+# Game
+
+[Pet Simulator! Wiki](https://pet-simulator.fandom.com/wiki/Pet_Simulator_Wiki)
+
+[Minecraft](https://www.minecraft.net/)
+
+[Planet zoo](https://www.planetzoogame.com/)
+
+[Minecraft Wiki](https://minecraft.gamepedia.com)
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Game" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 # Coding
 
 [Hedy](https://hedy-beta.herokuapp.com/hedy/1/1?lang=en)
@@ -86,23 +104,6 @@ title: Links for Kids
 <ul>
   {% for post in site.posts %}
     {% if post.categories contains "Reading" %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
-
-# Game
-
-[Minecraft](https://www.minecraft.net/)
-
-[Planet zoo](https://www.planetzoogame.com/)
-
-[Minecraft Wiki](https://minecraft.gamepedia.com)
-
-<ul>
-  {% for post in site.posts %}
-    {% if post.categories contains "Game" %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
