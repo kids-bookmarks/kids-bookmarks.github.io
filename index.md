@@ -2,6 +2,29 @@
 title: Links for Kids
 ---
 
+# Reading
+
+[Storyline Online](https://www.storylineonline.net/)
+
+[Dav Pilkey](https://pilkey.com/)
+
+[British Library - Discovering Children's Books](https://www.bl.uk/childrens-books)
+
+[Bexley Libraries](https://arena.yourlondonlibrary.net/web/bexley/home)
+
+[Summer Reading Challenge 2020](https://summerreadingchallenge.org.uk/)
+
+[The World of David Walliams - Elevenses with The World of David Walliams](https://www.worldofdavidwalliams.com/elevenses/)
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Reading" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
 # Game
 
 [Pet Simulator! Wiki](https://pet-simulator.fandom.com/wiki/Pet_Simulator_Wiki)
@@ -88,26 +111,6 @@ title: Links for Kids
 [Timestables.com](https://www.timestables.com/)
 
 [Math Antics](https://mathantics.com/)
-
-# Reading
-
-[Dav Pilkey](https://pilkey.com/)
-
-[British Library - Discovering Children's Books](https://www.bl.uk/childrens-books)
-
-[Bexley Libraries](https://arena.yourlondonlibrary.net/web/bexley/home)
-
-[Summer Reading Challenge 2020](https://summerreadingchallenge.org.uk/)
-
-[The World of David Walliams - Elevenses with The World of David Walliams](https://www.worldofdavidwalliams.com/elevenses/)
-
-<ul>
-  {% for post in site.posts %}
-    {% if post.categories contains "Reading" %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
 
 
 # History
