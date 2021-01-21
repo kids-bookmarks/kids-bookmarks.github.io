@@ -2,6 +2,34 @@
 title: Links for Kids
 ---
 
+# Home Learning
+
+[Bishop Ridley Church of England Primary School - Children](https://www.bishopridleyschool.org.uk/topic/children)
+- [Year 5 Home Learning (COVID) Thursday 21st January](https://www.bishopridleyschool.org.uk/thursday-21st-january-2/)
+- [Year 2 Home Learning Thursday 21.01.21](https://www.bishopridleyschool.org.uk/thursday-210121/)
+- [Home Reading Key Stage 2](https://www.bishopridleyschool.org.uk/key-stage-2/)
+- [Home Reading Key Stage 1](https://www.bishopridleyschool.org.uk/key-stage-1/)
+
+[일일수학](https://11math.com/calc#6D11F1B8)
+
+[Britannica Library](http://library.eb.co.uk/storelibrarycard?id=bexley)
+
+[Wide Open School](https://wideopenschool.org/programs/family/PreK-5/)
+
+[TED Ed - Earth School](https://ed.ted.com/earth-school)
+
+[Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
+
+[White Rose Maths](https://whiterosemaths.com/homelearning/)
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "Home-Learning" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 # Reading
 
 [Storyline Online](https://www.storylineonline.net/)
@@ -57,30 +85,6 @@ title: Links for Kids
 <ul>
   {% for post in site.posts %}
     {% if post.categories contains "Animals" %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
-# Home Learning
-
-[일일수학](https://11math.com/calc#6D11F1B8)
-
-[Britannica Library](http://library.eb.co.uk/storelibrarycard?id=bexley)
-
-[Bishop Ridley Church of England Primary School - Class Pages](https://www.bishopridleyschool.org.uk/class-pages-1/)
-
-[Wide Open School](https://wideopenschool.org/programs/family/PreK-5/)
-
-[TED Ed - Earth School](https://ed.ted.com/earth-school)
-
-[Twinkl - Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
-
-[White Rose Maths](https://whiterosemaths.com/homelearning/)
-
-<ul>
-  {% for post in site.posts %}
-    {% if post.categories contains "Home-Learning" %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
