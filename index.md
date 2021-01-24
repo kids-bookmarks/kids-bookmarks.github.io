@@ -55,6 +55,8 @@ title: Links for Kids
 
 # Game
 
+[Roblox Airplane Story Wiki](https://roblox-airplane-story.fandom.com/wiki/Airplane)
+
 [Pet Simulator! Wiki](https://pet-simulator.fandom.com/wiki/Pet_Simulator_Wiki)
 
 [Minecraft](https://www.minecraft.net/)
