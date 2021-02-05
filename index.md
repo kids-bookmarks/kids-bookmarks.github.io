@@ -54,6 +54,7 @@ title: Links for Kids
 
 
 # Game
+[Plants vs. Zombies Wiki](https://plantsvszombies.fandom.com)
 
 [My Singing Monsters wiki](https://mysingingmonsters.fandom.com/wiki/My_Singing_Monsters_Wiki)
 
